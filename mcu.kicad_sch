@@ -6867,7 +6867,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220nF"
+		(property "Value" "100nF"
 			(at 41.91 38.0999 0)
 			(effects
 				(font
@@ -7901,7 +7901,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 133.35 38.1 0)
 			(effects
 				(font
@@ -10048,7 +10048,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 44.958 105.41 90)
 			(effects
 				(font
