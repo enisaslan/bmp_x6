@@ -3392,6 +3392,28 @@
 			)
 		)
 	)
+	(global_label "xVCC"
+		(shape input)
+		(at 215.9 134.62 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b0bd7efa-f781-4bdb-a8d8-dc1b41a6d789")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 208.2581 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "iRXD"
 		(shape input)
 		(at 119.38 57.15 180)
@@ -5258,73 +5280,6 @@
 			(project "C1"
 				(path "/c46f0577-8378-47ed-a184-c512ebaa7448/e27febe6-6c97-45cc-ad3b-41753af47407"
 					(reference "C21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 64.77 167.64 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a0afde87-801d-4481-9f8c-ea0acae5237f")
-		(property "Reference" "#PWR049"
-			(at 71.12 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 68.58 167.6399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 64.77 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 64.77 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 64.77 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1efa6c2e-0b34-4814-8dd3-5c3483ea6c28")
-		)
-		(instances
-			(project "C1"
-				(path "/c46f0577-8378-47ed-a184-c512ebaa7448/e27febe6-6c97-45cc-ad3b-41753af47407"
-					(reference "#PWR049")
 					(unit 1)
 				)
 			)
