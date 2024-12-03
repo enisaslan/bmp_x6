@@ -514,9 +514,9 @@
       "+3.3V": "rgb(255, 153, 0)",
       "+5V": "rgb(255, 0, 0)",
       "/io/xRST": "rgb(132, 132, 132)",
-      "/mcu/LED0": "rgb(0, 255, 255)",
-      "/mcu/LED1": "rgb(0, 255, 255)",
-      "/mcu/LED2": "rgb(0, 255, 255)",
+      "/mcu/LED0": "rgb(0, 132, 132)",
+      "/mcu/LED1": "rgb(0, 132, 132)",
+      "/mcu/LED2": "rgb(0, 132, 132)",
       "/mcu/OWN_NREST": "rgb(132, 132, 132)"
     },
     "netclass_assignments": null,
