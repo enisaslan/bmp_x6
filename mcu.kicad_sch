@@ -5689,17 +5689,6 @@
 		)
 		(uuid "abf2fd2f-f271-4fc7-b41c-9e23fa7db7a5")
 	)
-	(label "M_UART_TX"
-		(at 246.38 81.28 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b315c6e0-0aec-43a7-8f47-af4f9abf1423")
-	)
 	(label "iTDO"
 		(at 246.38 73.66 0)
 		(fields_autoplaced yes)
@@ -5721,17 +5710,6 @@
 			(justify left bottom)
 		)
 		(uuid "ba008832-fe48-405c-895b-c30526cac761")
-	)
-	(label "M_UART_RX"
-		(at 246.38 83.82 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c186dfbf-265b-4dbc-8cb7-a1ca53f7a1ac")
 	)
 	(label "iTMS"
 		(at 246.38 68.58 0)
