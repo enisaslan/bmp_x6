@@ -16830,7 +16830,7 @@
 			(pintype "passive")
 			(uuid "0fb46152-071e-4e02-90e3-08f54189933e")
 		)
-		(model "C:/Users/eenis/OneDrive/ki_libea/3D/STEP/User Library-ABM3-2.stp"
+		(model "${KIPRJMOD}/3dModels/User Library-ABM3-2.stp"
 			(offset
 				(xyz 0 0 0)
 			)
